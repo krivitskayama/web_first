@@ -1,0 +1,37 @@
+.header__list {
+    width: 503px;
+    height: 21px;
+}
+.header_listnav {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+.header__listnavitem {
+    color: #FFFFFF;    
+}
+.main {
+}
+.main__text {
+    color: #FFFFFF; 
+}
+.main__textoffer {
+    color: #FFFFFF; 
+}
+.number__nav {
+}
+.number__navlist {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+.number__navlistitem {
+    color: #FFFFFF; 
+}
+body
+{
+    width: 1800px;
+    height: 904px;
+    background-image: url("/img/Image.png") ;
+    background-repeat: no-repeat;
+}
